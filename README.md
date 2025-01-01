@@ -1,7 +1,41 @@
-# racheli
-## Skills and Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+ 
+
+# 👩‍💻 Skills and Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/c#.png" alt="c#"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+  <!-- Visual Studio -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio--v1.png" alt="Visual Studio"/>
+  <!-- Visual Studio Code -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <!-- SQL -->
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <!-- C# -->
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/> 
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <!-- Eclipse -->
+  <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png" alt="Eclipse"/>
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <!-- PyCharm -->
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
+  <!-- IntelliJ IDEA -->
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
+</p>
+
+
+</p>
+
+
+
+
 
